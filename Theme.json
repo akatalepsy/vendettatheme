@@ -124,7 +124,6 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#06005d",
         "PRIMARY_100": "#12a2df",
         "PRIMARY_130": "#12a2df",
         "PRIMARY_160": "#12a2df",
@@ -150,7 +149,8 @@
         "ORANGE_345": "#f1882a",
         "RED_560": "#7f1c1e",
         "GREEN_345": "#26b968",
-        "BLUE_345": "#00aafc"
+        "BLUE_345": "#00aafc",
+        "WHITE_600": "#12a2df"
     },
     "spec": 2,
     "background": {
