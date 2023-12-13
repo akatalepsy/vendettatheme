@@ -27,16 +27,16 @@
             "#ff0000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#12a2df"
+            "#f1799c"
         ],
         "INTERACTIVE_HOVER": [
             "#03ffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ff1688"
+            "#4fbfe7"
         ],
         "INTERACTIVE_MUTED": [
-            "#eedf1b"
+            "#00ff00"
         ],
         "BACKGROUND_PRIMARY": [
             "transparent"
@@ -45,58 +45,58 @@
             "transparent"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#12a2df"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "transparent"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "transparent"
         ],
         "BACKGROUND_MENTIONED": [
             "#03ffff55"
         ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#000000"
+            "#ff0000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "transparent"
+            "#03ffff22"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#55d1d0"
+            "#55d1d055"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent"
+            "#d13b61"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#b30ba7"
+            "#ffffff"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "000000"
+            "ffffff"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#00ff9b"
+            "#ffffff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#000000"
+            "#ffffff"
         ],
         "KEYBOARD": [
-            "#000000"
+            "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#911212"
@@ -105,7 +105,7 @@
             "#b34b10"
         ],
         "CHANNEL_ICON": [
-            "#48c4c3"
+            "#f1799c"
         ],
         "CHANNELS_DEFAULT": [
             "#55d1d0"
