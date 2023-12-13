@@ -20,6 +20,9 @@
         "TEXT_MUTED": [
             "#1d93ff"
         ],
+        "TEXT_LINK": [
+            "#9b9b9b"
+        ],
         "TEXT_DANGER": [
             "#ff0000"
         ],
