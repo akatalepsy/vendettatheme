@@ -72,7 +72,7 @@
             "#ff0000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#transparent"
+            "#000000aa"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#4fbfe722"
@@ -96,7 +96,7 @@
             "#ffffff"
         ],
         "KEYBOARD": [
-            "transparent"
+            "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#911212"
