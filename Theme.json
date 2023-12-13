@@ -126,6 +126,8 @@
     "rawColors": {
         "PRIMARY": "#06005d",
         "PRIMARY_100": "#12a2df",
+        "PRIMARY_130": "#12a2df",
+        "PRIMARY_160": "#12a2df",
         "PRIMARY_200": "#12a2df",
         "PRIMARY_230": "#666666",
         "PRIMARY_300": "#c4c9ce",
