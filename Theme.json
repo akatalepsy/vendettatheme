@@ -33,7 +33,7 @@
             "#03ffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ff0000"
+            "#ff1688"
         ],
         "INTERACTIVE_MUTED": [
             "#eedf1b"
@@ -78,7 +78,7 @@
             "transparent"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1bee84"
+            "#ff0000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
