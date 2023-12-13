@@ -30,7 +30,7 @@
             "#f1799c"
         ],
         "INTERACTIVE_HOVER": [
-            "#4fbfe7"
+            "#6db4d5"
         ],
         "INTERACTIVE_ACTIVE": [
             "#03ffff"
@@ -78,7 +78,7 @@
             "#4fbfe722"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#55d1d055"
+            "#6db4d533"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#d13b61"
