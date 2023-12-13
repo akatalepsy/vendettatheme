@@ -60,7 +60,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "transparent"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#03ffff55"
@@ -125,29 +125,29 @@
     },
     "rawColors": {
         "PRIMARY": "#06005d",
-        "PRIMARY_100": "#4e48a2",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#764e6d",
-        "PRIMARY_360": "#9ad900",
-        "PRIMARY_400": "#7e4e16",
-        "PRIMARY_500": "#000000",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
-        "PRIMARY_900": "#6600ff",
-        "BRAND_360": "#ffff00",
-        "YELLOW_300": "#00ffff",
-        "BRAND_260": "#ff00ff",
-        "BRAND_500": "#ff0000",
-        "BRAND_560": "#00ff00",
-        "GREEN_360": "#0000ff",
-        "RED_400": "#99ff00",
-        "ORANGE_345": "#54968f",
-        "RED_560": "#ad89b2",
-        "GREEN_345": "#e28ced",
-        "BLUE_345": "#363a8a"
+        "PRIMARY_100": "#f9f9f9",
+        "PRIMARY_200": "#e3e5e8",
+        "PRIMARY_300": "#c4c9ce",
+        "PRIMARY_360": "#949ba4",
+        "PRIMARY_400": "#80848e",
+        "PRIMARY_500": "#4e5058",
+        "PRIMARY_600": "#313338",
+        "PRIMARY_630": "#2b2d31",
+        "PRIMARY_660": "#232428",
+        "PRIMARY_700": "#1e1f22",
+        "PRIMARY_800": "#111214",
+        "PRIMARY_900": "#020202",
+        "BRAND_360": "#949cf7",
+        "YELLOW_300": "#f0b232",
+        "BRAND_260": "#c9cdfb",
+        "BRAND_500": "#5865f2",
+        "BRAND_560": "#4752c4",
+        "GREEN_360": "#23a55a",
+        "RED_400": "#f23f43",
+        "ORANGE_345": "#f1882a",
+        "RED_560": "#7f1c1e",
+        "GREEN_345": "#26b968",
+        "BLUE_345": "#00aafc"
     },
     "spec": 2,
     "background": {
