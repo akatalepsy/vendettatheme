@@ -30,13 +30,13 @@
             "#03ffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#7a0975"
+            "#afafaf"
         ],
         "INTERACTIVE_MUTED": [
-            "#ffffff"
+            "#fafafa"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000"
