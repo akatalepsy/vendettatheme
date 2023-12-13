@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#051932"
+            "#12a2df"
         ],
         "HEADER_SECONDARY": [
             "#ff0000"
@@ -21,7 +21,7 @@
             "#1d93ff"
         ],
         "TEXT_LINK": [
-            "#02feff"
+            "#ff1688"
         ],
         "TEXT_DANGER": [
             "#ff0000"
@@ -105,7 +105,7 @@
             "#b34b10"
         ],
         "CHANNEL_ICON": [
-            "#ff1688"
+            "#12a2df"
         ],
         "CHANNELS_DEFAULT": [
             "#0000ff"
