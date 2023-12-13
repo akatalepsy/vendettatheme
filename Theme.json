@@ -18,7 +18,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#7b0a8a"
+            "#ff1688"
         ],
         "TEXT_DANGER": [
             "#7b0a8a"
@@ -105,7 +105,7 @@
             "#ff1688"
         ],
         "CHANNELS_DEFAULT": [
-            "#ff1688"
+            "#0000ff"
         ],
         "REDESIGN_ACTIVITY_CARD_BORDER": [
             "#2d0333"
