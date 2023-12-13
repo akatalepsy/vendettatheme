@@ -45,7 +45,7 @@
             "transparent"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "transparent"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -137,11 +137,11 @@
         "PRIMARY_700": "#1e1f22",
         "PRIMARY_800": "#111214",
         "PRIMARY_900": "#020202",
-        "BRAND_360": "#949cf7",
-        "YELLOW_300": "#f0b232",
-        "BRAND_260": "#c9cdfb",
+        "BRAND_360": "#f1799c",
+        "YELLOW_300": "#f1799c",
+        "BRAND_260": "#f1799c",
         "BRAND_500": "#5865f2",
-        "BRAND_560": "#4752c4",
+        "BRAND_560": "#12a2df",
         "GREEN_360": "#23a55a",
         "RED_400": "#f23f43",
         "ORANGE_345": "#f1882a",
