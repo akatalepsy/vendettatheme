@@ -21,7 +21,7 @@
             "#ff1688"
         ],
         "TEXT_DANGER": [
-            "#7b0a8a"
+            "#ff0000"
         ],
         "INTERACTIVE_NORMAL": [
             "#03ffff"
@@ -57,7 +57,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#2d0333"
+            "#121212"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
@@ -96,10 +96,10 @@
             "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#b30ba7"
+            "#212121"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b30ba7"
+            "#555555"
         ],
         "CHANNEL_ICON": [
             "#ff1688"
@@ -108,10 +108,10 @@
             "#0000ff"
         ],
         "REDESIGN_ACTIVITY_CARD_BORDER": [
-            "#2d0333"
+            "#365896"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#2d0333"
+            "#698563"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
