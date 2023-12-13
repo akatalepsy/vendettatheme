@@ -146,11 +146,11 @@
         "BRAND_560": "#12a2df",
         "GREEN_360": "#23a55a",
         "RED_400": "#f23f43",
-        "ORANGE_345": "#ffff1a",
-        "RED_560": "#f9ab1b",
-        "GREEN_345": "#ff72ff",
-        "BLUE_345": "#337dff",
-        "WHITE_630": "#12a2df"
+        "ORANGE_345": "#ff72ff",
+        "RED_560": "#ffae1a",
+        "GREEN_345": "#1ac5ff",
+        "BLUE_345": "#8bff1c",
+        "WHITE_560": "#12a2df"
     },
     "spec": 2,
     "background": {
