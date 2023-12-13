@@ -30,10 +30,10 @@
             "#f1799c"
         ],
         "INTERACTIVE_HOVER": [
-            "#03ffff"
+            "#4fbfe7"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4fbfe7"
+            "#03ffff"
         ],
         "INTERACTIVE_MUTED": [
             "#00ff00"
@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#03ffff55"
+            "#4fbfe755"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -75,7 +75,7 @@
             "#transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#03ffff22"
+            "#4fbfe722"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#55d1d055"
