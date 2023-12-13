@@ -42,7 +42,7 @@
             "transparent"
         ],
         "BACKGROUND_SECONDARY": [
-            "transparent"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -140,7 +140,7 @@
         "BRAND_360": "#f1799c",
         "YELLOW_300": "#f1799c",
         "BRAND_260": "#f1799c",
-        "BRAND_500": "#5865f2",
+        "BRAND_500": "#f1799c",
         "BRAND_560": "#12a2df",
         "GREEN_360": "#23a55a",
         "RED_400": "#f23f43",
