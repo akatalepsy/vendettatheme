@@ -42,7 +42,7 @@
             "transparent"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -78,7 +78,7 @@
             "transparent"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ff0000"
+            "#55d1d0"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
@@ -105,7 +105,7 @@
             "#b34b10"
         ],
         "CHANNEL_ICON": [
-            "#12a2df"
+            "#12c1df"
         ],
         "CHANNELS_DEFAULT": [
             "#55d1d0"
