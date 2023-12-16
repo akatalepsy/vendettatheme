@@ -12,7 +12,7 @@
             "#f8c0d0"
         ],
         "HEADER_SECONDARY": [
-            "#aaaaaa"
+            "#8bc2d1"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -149,8 +149,7 @@
         "ORANGE_345": "#ff72ff",
         "RED_560": "#ffae1a",
         "GREEN_345": "#1ac5ff",
-        "BLUE_345": "#8bff1c",
-        "WHITE_560": "#12a2df"
+        "BLUE_345": "#8bff1c"
     },
     "spec": 2,
     "background": {
