@@ -110,12 +110,6 @@
         "CHANNELS_DEFAULT": [
             "#55d1d0"
         ],
-        "REDESIGN_ACTIVITY_CARD_BORDER": [
-            "#365896"
-        ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#2dff00"
-        ],
         "CHAT_BACKGROUND": [
             "#000000"
         ],
@@ -128,7 +122,7 @@
         "PRIMARY_130": "#ff00ff",
         "PRIMARY_230": "#98bbc4",
         "PRIMARY_300": "#c4c9ce",
-        "PRIMARY_360": "#949ba4",
+        "PRIMARY_360": "#98bbc4",
         "PRIMARY_400": "#80848e",
         "PRIMARY_500": "#666666",
         "PRIMARY_600": "#000000",
