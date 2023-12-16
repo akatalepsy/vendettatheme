@@ -114,11 +114,11 @@
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#DCDDDE"
+            "#c9a1ad"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ff0000",
+        "PRIMARY_100": "#0000ff",
         "PRIMARY_130": "#ff00ff",
         "PRIMARY_230": "#98bbc4",
         "PRIMARY_300": "#c4c9ce",
