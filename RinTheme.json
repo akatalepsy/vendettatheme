@@ -1,0 +1,153 @@
+{
+  "name": "Cerberus",
+  "description": "Helltaker Cerberus theme for Vendetta",
+  "authors": [
+    {
+      "name": "Starin",
+      "id": ""
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#88738A"
+    ],
+    "HEADER_SECONDARY": [
+      "#4B484B"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#740F0C"
+    ],
+    "TEXT_LINK": [
+      "#E52023"
+    ],
+    "TEXT_DANGER": [
+      "#ff0000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E52555"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E55555"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#E55555"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#E99999"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#E52555"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#E52555"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#ff0000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#000000aa"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#E52555"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#E52555"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "ffffff"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#ffffff"
+    ],
+    "KEYBOARD": [
+      "#000000"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#ff0000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#b34b10"
+    ],
+    "CHANNEL_ICON": [
+      "#f1799c"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#ff0000"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#E99999"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#d595a8",
+    "PRIMARY_130": "#ff00ff",
+    "PRIMARY_230": "#98bbc4",
+    "PRIMARY_300": "#98bbc4",
+    "PRIMARY_360": "#d595a8",
+    "PRIMARY_400": "#80848e",
+    "PRIMARY_500": "#666666",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "PRIMARY_900": "#020202",
+    "BRAND_360": "#f1799c",
+    "YELLOW_300": "#f1799c",
+    "BRAND_260": "#f1799c",
+    "BRAND_500": "#f1799c",
+    "BRAND_530": "#f1799c",
+    "BRAND_560": "#12a2df",
+    "GREEN_360": "#23a55a",
+    "RED_400": "#f23f43",
+    "ORANGE_345": "#ff72ff",
+    "RED_560": "#ffae1a",
+    "GREEN_345": "#1ac5ff",
+    "BLUE_345": "#8bff1c"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://media.discordapp.net/attachments/803725668352393256/1194075170734882907/QvCri2qH-wallha.com.png?ex=65af0829&is=659c9329&hm=6b1b04874de682461cd31d61b112c3a314645e34863ae8e88030a533591cd5d9&",
+    "alpha": 0.5,
+    "color": "#081924"
+  }
+}
